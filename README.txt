@@ -1,0 +1,1 @@
+Upload index.html, plotly.min.js, linkedin-preview.png, and the three fallback-*.png files to the ROOT of your GitHub Pages repository. These images are visible when Plotly is unavailable, including limited iOS file previews. The interactive versions appear automatically after successful rendering. The source HTML is kept below LinkedIn's preview size limit.
