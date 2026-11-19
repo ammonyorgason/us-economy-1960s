@@ -1,0 +1,1 @@
+Upload index.html, plotly.min.js, and linkedin-preview.png together to your GitHub Pages repository root. This is a new alternate portfolio version; your previous versions were not modified. The page is offline-capable when all three files remain together. Its first HTML file stays under LinkedIn's 3 MB scraper threshold.
